@@ -32,9 +32,9 @@ Problem statement: To build a CNN based model which can accurately detect melano
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- tensorflow - version 2.15
+- keras - version 3.0
+- matplotlib - version 3.1
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
